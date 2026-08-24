@@ -1,3 +1,2 @@
-This is a new line
-
-This is an extra line
+This is a new line, specifically for LinkedIn Learning!
+This is a new line, this is a better change!
